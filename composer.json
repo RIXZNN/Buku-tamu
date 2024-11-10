@@ -1,0 +1,16 @@
+{
+    "name": "riqzan/buku_tamu",
+    "autoload": {
+        "psr-4": {
+            "Riqzan\\BukuTamu\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Riqzan"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.1"
+    }
+}
